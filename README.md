@@ -185,6 +185,4 @@ When I'm not coding, I'm usually:
 <i>"Every project begins with curiosity. The best ones leave behind experience."</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishant150226-hub&color=00F5D4&style=flat-square"/>
-</p>
+
