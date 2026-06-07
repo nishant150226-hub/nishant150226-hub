@@ -1,15 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:334155,100:F59E0B&height=140&section=header&text=Nishant%20Gaurav&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
-</p>
+# Nishant Gaurav
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+&size=22&duration=3000&color=FBBF24&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Working+Software;Exploring+AI+Through+Projects;Learning+By+Creating;One+Project+At+A+Time"/>
-  
-</p>
-
-<p align="center">
-  <b>Software development, AI exploration, and continuous learning through projects.</b>
-</p>
+> Building Software • Exploring AI • Creating Interactive Experiences
 
 ---
 
@@ -19,15 +10,15 @@ I'm a Computer Science student who enjoys learning by building.
 
 What started with websites and interactive applications has gradually expanded into AI-powered tools and security-focused systems.
 
-Rather than focusing on a single domain, I enjoy exploring different areas of software development and understanding how technology can solve practical problems.
+Rather than staying within a single domain, I enjoy exploring different areas of software development and understanding how technology can solve practical problems.
 
-Every project here represents a challenge, an experiment, or a new concept explored through code.
+Every repository here represents a challenge, a lesson learned, or an idea brought to life through code.
 
 ---
 
 ## Current Direction
 
-<pre>
+```text
 Web Development
       ↓
 Interactive Applications
@@ -35,20 +26,20 @@ Interactive Applications
 Artificial Intelligence
       ↓
 Security Systems
-</pre>
+```
 
-Currently interested in:
+Currently exploring:
 
-• Artificial Intelligence
-• Software Engineering
-• Cybersecurity Applications
-• Interactive Experiences
+* Artificial Intelligence
+* Software Engineering
+* Cybersecurity Applications
+* Interactive Systems
 
 ---
 
 ## Project Evolution
 
-<pre>
+```text
 Web Development
 ├── Contact Card
 └── Shahi Hotel
@@ -63,25 +54,26 @@ AI & Security
 
 Current Goal
 └── Building smarter and more practical software systems
-</pre>
+```
 
 ---
 
-## Selected Projects
+## Things I've Built
 
-<table width="90%">
-
+<table>
 <tr>
 
 <td width="50%">
 
 ### AI Finance Agent
 
-AI-powered financial assistant designed to help users organize and manage financial information.
+AI-powered assistant designed to help users organize and manage financial information.
 
-Built to explore how intelligent systems can support decision-making and improve accessibility.
+**Why I built it**
 
-🔗 View Project
+To explore how intelligent systems can assist decision-making and simplify everyday financial tasks.
+
+🔗 Repository Link
 
 </td>
 
@@ -89,11 +81,13 @@ Built to explore how intelligent systems can support decision-making and improve
 
 ### AI Phish Guard
 
-Phishing detection system capable of analyzing suspicious URLs and identifying potential threats.
+Phishing detection system capable of identifying suspicious URLs and potential threats.
 
-Built to understand how AI can be applied to real-world cybersecurity challenges.
+**Why I built it**
 
-🔗 View Project
+To understand how AI techniques can be applied to real-world cybersecurity challenges.
+
+🔗 Repository Link
 
 </td>
 
@@ -105,11 +99,13 @@ Built to understand how AI can be applied to real-world cybersecurity challenges
 
 ### Forest Game
 
-Interactive browser-based game developed using JavaScript.
+Interactive browser-based game built using JavaScript.
 
-Built to experiment with game mechanics, logic, and user interaction.
+**Why I built it**
 
-🔗 View Project
+To experiment with game mechanics, logic systems, and user interaction.
+
+🔗 Repository Link
 
 </td>
 
@@ -117,26 +113,27 @@ Built to experiment with game mechanics, logic, and user interaction.
 
 ### Battle Royale Game
 
-Game development project focused on frontend interaction and gameplay systems.
+Game development project focused on gameplay systems and frontend interaction.
 
-Built as an exploration of browser-based game development.
+**Why I built it**
 
-🔗 View Project
+To explore how larger game structures are designed and implemented.
+
+🔗 Repository Link
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-## Development Snapshot
+## Progress So Far
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nishant150226-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nishant150226-hub&show_icons=true&theme=default&hide_border=true"/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant150226-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant150226-hub&layout=compact&hide_border=true"/>
 </p>
 
 ---
@@ -145,44 +142,55 @@ Built as an exploration of browser-based game development.
 
 ### Languages
 
-Python • JavaScript • Java • C++
+* Python
+* JavaScript
+* Java
+* C++
 
 ### Development
 
-HTML • CSS • Git • GitHub
+* HTML
+* CSS
+* Git
+* GitHub
 
 ### Exploring
 
-Artificial Intelligence
-Cybersecurity
-Software Architecture
+* Artificial Intelligence
+* Cybersecurity
+* Software Architecture
 
 ---
 
 ## Currently Learning
 
-<pre>
+```text
 + Artificial Intelligence Fundamentals
-+ Practical Software Design
-+ Security Concepts
-+ Modern Development Workflows
-</pre>
++ Software Design Principles
++ Cybersecurity Concepts
++ Modern Development Practices
+```
 
 ---
 
-## Beyond Projects
+## Beyond Code
 
 When I'm not coding, I'm usually:
 
-• Exploring new technologies
-• Experimenting with project ideas
-• Learning something unfamiliar
-• Improving existing projects instead of starting new ones (sometimes)
+* Exploring new technologies
+* Experimenting with project ideas
+* Learning something unfamiliar
+* Improving existing projects
+* Planning what to build next
 
 ---
 
-<p align="center">
-<i>"Every project begins with curiosity. The best ones leave behind experience."</i>
-</p>
+## Looking Ahead
 
+I'm currently focused on building stronger foundations in software development while exploring AI-powered systems and practical security applications.
 
+Each project teaches something new.
+
+The next one usually starts with a simple question:
+
+> Can I build this?
