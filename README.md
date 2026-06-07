@@ -72,11 +72,9 @@ Currently exploring:
 
 AI-powered assistant designed to help users organize and manage financial information.
 
-**Why I built it**
+💡 To explore how intelligent systems can assist decision-making and simplify everyday financial tasks.
 
-To explore how intelligent systems can assist decision-making and simplify everyday financial tasks.
-
-🔗 [Repository Link](https://github.com/nishant150226-hub/ai_finance_agent)
+🔗 [Explore Project](https://github.com/nishant150226-hub/ai_finance_agent)
 
 </td>
 
@@ -88,11 +86,9 @@ To explore how intelligent systems can assist decision-making and simplify every
 
 Phishing detection system capable of identifying suspicious URLs and potential threats.
 
-**Why I built it**
+💡 To understand how AI techniques can be applied to real-world cybersecurity challenges.
 
-To understand how AI techniques can be applied to real-world cybersecurity challenges.
-
-🔗 [Repository Link](https://github.com/nishant150226-hub/ai-phish-guard)
+🔗 [Explore Project](https://github.com/nishant150226-hub/ai-phish-guard)
 
 </td>
 
@@ -106,29 +102,25 @@ To understand how AI techniques can be applied to real-world cybersecurity chall
 
 `JavaScript` `Game Development`
 
-Interactive browser-based game built using JavaScript.
+Interactive browser-based game built using JavaScript and WebGL for realistic 3D environment.
 
-**Why I built it**
+💡 To experiment with game mechanics, logic systems, and user interaction.
 
-To experiment with game mechanics, logic systems, and user interaction.
-
-🔗 [Repository Link](https://github.com/nishant150226-hub/forest-game)
+🔗 [Explore Project](https://github.com/nishant150226-hub/forest-game)
 
 </td>
 
 <td width="50%">
 
-### Battle Royale Game
+### Battle Royale 
 
 `JavaScript` `Interactive Systems`
 
 Game development project focused on gameplay systems and frontend interaction.
 
-**Why I built it**
+💡 To explore how larger game structures are designed and implemented.
 
-To explore how larger game structures are designed and implemented.
-
-🔗 [Repository Link](https://github.com/nishant150226-hub/battle-royale)
+🔗 [Explore Project](https://github.com/nishant150226-hub/battle-royale)
 
 </td>
 
