@@ -6,13 +6,11 @@
 
 ## 🚀 About
 
-I'm a Computer Science student who enjoys learning by building.
+I'm a Computer Science student who enjoys turning ideas into working software.
 
-What started with websites and interactive applications has gradually expanded into AI-powered tools and security-focused systems.
+My projects have taken me from building websites and browser games to experimenting with AI-powered tools and cybersecurity applications.
 
-Rather than staying within a single domain, I enjoy exploring different areas of software development and understanding how technology can solve practical problems.
-
-Every repository here represents a challenge, a lesson learned, or an idea brought to life through code.
+I enjoy exploring new technologies through hands-on development, treating each project as an opportunity to learn something new and build something better than the last.
 
 ---
 
