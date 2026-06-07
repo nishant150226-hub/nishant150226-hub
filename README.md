@@ -68,13 +68,15 @@ Currently exploring:
 
 ### AI Finance Agent
 
+`AI` `Finance` `HTML`
+
 AI-powered assistant designed to help users organize and manage financial information.
 
 **Why I built it**
 
 To explore how intelligent systems can assist decision-making and simplify everyday financial tasks.
 
-🔗 Repository Link
+🔗 [Repository Link](https://github.com/nishant150226-hub/ai_finance_agent)
 
 </td>
 
@@ -82,13 +84,15 @@ To explore how intelligent systems can assist decision-making and simplify every
 
 ### AI Phish Guard
 
+`Cybersecurity` `AI` `Threat Detection`
+
 Phishing detection system capable of identifying suspicious URLs and potential threats.
 
 **Why I built it**
 
 To understand how AI techniques can be applied to real-world cybersecurity challenges.
 
-🔗 Repository Link
+🔗 [Repository Link](https://github.com/nishant150226-hub/ai-phish-guard)
 
 </td>
 
@@ -100,13 +104,15 @@ To understand how AI techniques can be applied to real-world cybersecurity chall
 
 ### Forest Game
 
+`JavaScript` `Game Development`
+
 Interactive browser-based game built using JavaScript.
 
 **Why I built it**
 
 To experiment with game mechanics, logic systems, and user interaction.
 
-🔗 Repository Link
+🔗 [Repository Link](https://github.com/nishant150226-hub/forest-game)
 
 </td>
 
@@ -114,13 +120,15 @@ To experiment with game mechanics, logic systems, and user interaction.
 
 ### Battle Royale Game
 
+`JavaScript` `Interactive Systems`
+
 Game development project focused on gameplay systems and frontend interaction.
 
 **Why I built it**
 
 To explore how larger game structures are designed and implemented.
 
-🔗 Repository Link
+🔗 [Repository Link](https://github.com/nishant150226-hub/battle-royale)
 
 </td>
 
