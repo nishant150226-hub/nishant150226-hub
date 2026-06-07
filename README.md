@@ -129,61 +129,78 @@ Game development project focused on gameplay systems and frontend interaction.
 
 ---
 
-## 📈 Progress So Far
+## 📈 Development Journey
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nishant150226-hub&show_icons=true&theme=default&hide_border=true"/>
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant150226-hub&layout=compact&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishant150226-hub&theme=github" />
 </p>
 
 ---
 
-## ⚙️ Technologies
+## 🧰 Toolbox
 
 
 ### Languages
 
-Python • JavaScript • Java • C++
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
 ### Tools
 
-Git • GitHub • VS Code
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ### Interests
 
-AI • Cybersecurity • Software Design
+`Artificial Intelligence`
+`Cybersecurity`
+`Software Design`
 
 ---
 
 
 ## 🔭 Currently Exploring
 
-```text
-+ Artificial Intelligence Fundamentals
-+ Software Design Principles
-+ Cybersecurity Concepts
-+ Modern Development Practices
-```
+• Artificial Intelligence Fundamentals
+
+• Software Design Principles
+
+• Cybersecurity Concepts
+
+• Modern Development Practices
 
 ---
 
-## Beyond Code
+## 🌐 Beyond Code
 
 When I'm not coding, I'm usually:
 
-* Exploring new technologies
-* Experimenting with project ideas
-* Learning something unfamiliar
+<pre>> Exploring new technologies and development tools
+
+> Experimenting with project ideas, even if they never leave the notebook
+
+> Learning something unfamiliar just to understand how it works
+
+> Looking for ways to turn curiosity into a working project
+
+</pre>
+
 
 ---
 
-## Looking Ahead
+## 🎯 Looking Ahead
 
-I'm currently focused on building stronger foundations in software development while exploring AI-powered systems and practical security applications.
+I'm focused on building stronger foundations in software development while continuing to explore AI and cybersecurity through practical projects.
 
-Each project teaches something new.
+Every project teaches something new.
 
-The next one usually starts with a simple question:
+The next one usually begins with a simple question:
 
 > Can I build this?
