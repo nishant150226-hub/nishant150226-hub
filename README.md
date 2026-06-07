@@ -1,10 +1,10 @@
-# Nishant Gaurav
-
-> Building Software • Exploring AI • Creating Interactive Experiences
+<p align="center">
+  <img src="Nishant Gaurav.png" width="100%" height="90%>
+</p>
 
 ---
 
-## About
+## 🚀 About
 
 I'm a Computer Science student who enjoys learning by building.
 
@@ -16,16 +16,16 @@ Every repository here represents a challenge, a lesson learned, or an idea broug
 
 ---
 
-## Current Direction
+## 🌱 Current Direction
 
 ```text
-Web Development
+🌐 Web Development
       ↓
-Interactive Applications
+🎮 Interactive Applications
       ↓
-Artificial Intelligence
+🤖 AI Applications
       ↓
-Security Systems
+🛡 Security Systems
 ```
 
 Currently exploring:
@@ -37,28 +37,29 @@ Currently exploring:
 
 ---
 
-## Project Evolution
+
+## 🛠️ Project Evolution
 
 ```text
-Web Development
-├── Contact Card
-└── Shahi Hotel
+🌐 Web Development
+   ├─ Contact Card
+   └─ Shahi Hotel
 
-Interactive Applications
-├── Forest Game
-└── Battle Royale Game
+🎮 Interactive Applications
+   ├─ Forest Game
+   └─ Battle Royale Game
 
-AI & Security
-├── AI Finance Agent
-└── AI Phish Guard
+🤖 AI & Security
+   ├─ AI Finance Agent
+   └─ AI Phish Guard
 
-Current Goal
-└── Building smarter and more practical software systems
+🎯 Current Goal
+   └─ Smarter Software Systems
 ```
 
 ---
 
-## Things I've Built
+## 📦 Things I've Built
 
 <table>
 <tr>
@@ -128,7 +129,7 @@ To explore how larger game structures are designed and implemented.
 
 ---
 
-## Progress So Far
+## 📈 Progress So Far
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=nishant150226-hub&show_icons=true&theme=default&hide_border=true"/>
@@ -138,31 +139,25 @@ To explore how larger game structures are designed and implemented.
 
 ---
 
-## Technologies
+## ⚙️ Technologies
+
 
 ### Languages
 
-* Python
-* JavaScript
-* Java
-* C++
+Python • JavaScript • Java • C++
 
-### Development
+### Tools
 
-* HTML
-* CSS
-* Git
-* GitHub
+Git • GitHub • VS Code
 
-### Exploring
+### Interests
 
-* Artificial Intelligence
-* Cybersecurity
-* Software Architecture
+AI • Cybersecurity • Software Design
 
 ---
 
-## Currently Learning
+
+## 🔭 Currently Exploring
 
 ```text
 + Artificial Intelligence Fundamentals
@@ -180,8 +175,6 @@ When I'm not coding, I'm usually:
 * Exploring new technologies
 * Experimenting with project ideas
 * Learning something unfamiliar
-* Improving existing projects
-* Planning what to build next
 
 ---
 
