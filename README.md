@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Nishant Gaurav.png" width="100%" height="90%">
+  <img src="Nishant Gaurav.png" width="100%" height="280px">
 </p>
 
 ---
