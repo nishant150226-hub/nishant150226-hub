@@ -160,7 +160,7 @@ Game development project focused on gameplay systems and frontend interaction.
 ### Interests
 
 `Artificial Intelligence`
-`Cybersecurity`
+`Game Development`
 `Software Design`
 
 ---
