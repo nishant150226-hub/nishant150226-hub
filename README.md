@@ -104,7 +104,7 @@ Phishing detection system capable of identifying suspicious URLs and potential t
 
 Interactive browser-based game built using JavaScript and WebGL for realistic 3D environment.
 
-💡 To experiment with game mechanics, logic systems, and user interaction.
+💡 To experiment with game mechanics, logic systems and user interaction.
 
 🔗 [Explore Project](https://github.com/nishant150226-hub/forest-game)
 
