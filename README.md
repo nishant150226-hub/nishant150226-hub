@@ -129,13 +129,14 @@ Game development project focused on gameplay systems and frontend interaction.
 
 ---
 
+
+
+<!-- <p align="center">
 ## 📈 Development Journey
-
-<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishant150226-hub&theme=github" />
-</p>
+</p> -->
 
----
+
 
 ## 🧰 Toolbox
 
